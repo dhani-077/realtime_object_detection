@@ -31,7 +31,7 @@ mkdir object_detection
 
 git clone this repository
 ```powershell
-gitclone https://
+gitclone https://github.com/dhani-077/realtime_object_detection.git
 ```
 
 Create a Virtual Environment
